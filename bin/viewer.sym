@@ -1,0 +1,10 @@
+.label Pause=$c06b
+.label SwitchPic=$c07b
+.label nmi=$c10c
+.label BankCheck=$c083
+.label irq1=$c0b6
+.label irq0=$c093
+.label Set_Bank=$c0a8
+.label irq2=$c0d5
+.label irqend=$c0fa
+.label irqcount=$c10d
